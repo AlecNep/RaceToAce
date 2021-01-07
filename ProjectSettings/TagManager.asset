@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - P1Attack
+  - Nail
+  - Magnet
+  - Item
+  - Room
+  - MainFloor
+  - Vomit
+  - Pencil
+  - NPC
+  - Enemy
+  - LoS
+  - Trophy
+  - MiniMap
+  - NPCAttack
+  - Mop
+  - Wet Floor
+  - Item Database
+  - Gloves
+  - Beaker
+  - Button Icon
+  - Speakable
+  - BlowTorch
+  - Chair
+  - Beaker World
+  - Bio Kid
+  - Robot
+  - Fist Display
+  - Glove Display
+  - Cement
+  - Ball
+  - Coffee Display
+  - Bar Display
+  - HallPass
+  - No PowerUp Display
+  - HallPassPiece
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player1
+  - Level
+  - MainLevel
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

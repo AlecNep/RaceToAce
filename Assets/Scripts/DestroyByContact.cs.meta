@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dcd334abc626a8b46b427ad937c2dbae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item: {instanceID: 0}
+  - warp: {instanceID: 0}
+  - player: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - crumblingSound: {fileID: 8300000, guid: b4a19e72d40d3f844ae632e9548e1376, type: 3}
+  - gameController: {instanceID: 0}
+  - Fire: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
